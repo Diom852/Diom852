@@ -1,4 +1,4 @@
-### Olá! Sou F Dioncley 👋
+### Olá! Sou Dioncley 👋
 
 🌐 Desenvolvedor Full Stack | Node.js, Next.js | Empreendedor em Soluções Web e Análise de Dados | Experiência em Gestão de Infraestrutura de TI
 
@@ -6,7 +6,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dioncley/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diom147@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diom852&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diom852&layout=compact&langs_count=7&theme=radical)
 
 
 ### Tecnologias
