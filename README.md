@@ -21,7 +21,7 @@
 [![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![Blog](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 
-[![Blog](https://img.shields.io/github/watchers/{diom852}/{diom852}.svg)](#)
+[![Blog](https://img.shields.io/github/watchers/{Diom852}/{Diom852}.svg)](#)
 
 <!--
 **Diom852/Diom852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
