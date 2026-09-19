@@ -132,6 +132,15 @@ Meu interesse está principalmente em integrar IA a **produtos reais e workflows
 
 ---
 
+## 🌱 No momento
+
+* 🇺🇸 Melhorando meu **speaking em inglês**
+* 🐹 Estudando **Go** — próxima linguagem que quero levar pra produção
+* 🛠️ No dia a dia: **Claude Code + Codex + Antigravity**
+* 🧪 Testando os **modelos chineses** conforme vão saindo e acompanhando de perto notícias sobre novos modelos e seus usos
+
+---
+
 ## 📊 GitHub
 
 ![Streak Stats](https://streak-stats.demolab.com?user=Diom852&theme=dark&hide_border=true)
@@ -150,6 +159,8 @@ const dioncley = {
   role: "Full Stack Developer",
   mainStack: ["TypeScript", "Node.js", "Next.js", "React Native"],
   databases: ["PostgreSQL", "MongoDB", "Redis"],
+  learning: ["Go", "English speaking"],
+  dailyTools: ["Claude Code", "Codex", "Antigravity"],
   interests: [
     "Software Architecture",
     "Sports Tech",
