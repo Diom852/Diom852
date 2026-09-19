@@ -4,8 +4,6 @@
 
 Desenvolvedor Full Stack com experiência na construção e evolução de **aplicações web, mobile, APIs e produtos digitais em produção**.
 
-Meu foco está principalmente em **TypeScript, Node.js, Next.js e React Native**, trabalhando também com arquitetura de APIs, bancos de dados, autenticação, cache, integrações externas, notificações em tempo real e infraestrutura.
-
 Atualmente desenvolvo soluções voltadas principalmente para **Sports Tech, análise de dados e automação**, trabalhando desde a arquitetura e backend até aplicações web e mobile.
 
 ---
@@ -136,8 +134,6 @@ Meu interesse está principalmente em integrar IA a **produtos reais e workflows
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diom852&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diom852&layout=compact&theme=dark&hide_border=true)
 ![Streak Stats](https://streak-stats.demolab.com?user=Diom852&theme=dark&hide_border=true)
 
 ---
