@@ -106,16 +106,16 @@ Minha experiência envolve o desenvolvimento de **produtos digitais, sistemas or
 
 Ao longo dos últimos anos, trabalhei com diferentes tipos de projetos e desafios técnicos:
 
-- ⚽ **Sports Tech e análise estatística** — processamento de dados de partidas, jogadores, equipes, competições e métricas esportivas.
-- 🤖 **Bots e automações** — desenvolvimento de bots para Telegram, notificações automatizadas, processamento de eventos e distribuição de informações em tempo real.
-- 📊 **Engenharia e análise de dados** — coleta, transformação, agregação e análise de grandes volumes de dados.
-- 🕷️ **Web Scraping e coleta automatizada** — construção de rotinas para extração, normalização e processamento de informações provenientes de diferentes fontes.
-- 🧑‍⚖️ **Análise de arbitragem esportiva** — processamento de dados históricos de árbitros, cartões, faltas e outros indicadores para geração de métricas e análises.
-- 🧠 **Machine Learning e IA aplicada** — experimentação, treinamento e utilização de modelos voltados para análise e interpretação de estatísticas.
-- 💳 **Pagamentos e produtos digitais** — integração com gateways de pagamento, assinaturas, controle de acesso e fluxos relacionados à monetização de aplicações.
-- 🔌 **Integrações entre sistemas** — APIs REST, webhooks, autenticação, serviços externos e comunicação entre diferentes aplicações.
-- 📱 **Aplicações Web e Mobile** — desenvolvimento e manutenção de aplicações com Next.js, React, React Native e Node.js.
-- ☕ **Java & Spring** — experiência anterior com Java, Spring e PostgreSQL em desenvolvimento backend e integração com bancos de dados.
+- ⚽ **Sports Tech multi-esporte** — sistemas de análise para futebol, basquete e tênis, cruzando estatísticas avançadas, mercados e dados em tempo real.
+- 🎲 **Engenharia de dados em tempo real** — um dos maiores desafios técnicos que já enfrentei: cruzar dados de múltiplas fontes simultâneas, com baixa latência e alto volume, calculando probabilidades para identificar oportunidades antes que a janela se feche.
+- 👁️ **Visão computacional & IA aplicada** — treinamento de modelos (TensorFlow, YOLO) para reconhecimento e análise de padrões em imagens.
+- 🐍 **Python & automação (Windows)** — scripts para automação, extração e processamento de dados em ambiente Windows.
+- 🤖 **Bots e automações** — bots para Telegram, notificações automatizadas e processamento de eventos em tempo real.
+- 🕷️ **Web Scraping** — rotinas de extração, normalização e processamento de dados de múltiplas fontes.
+- 💳 **Pagamentos e produtos digitais** — gateways de pagamento, assinaturas e controle de acesso para monetização.
+- 🔌 **Integrações entre sistemas** — APIs REST, webhooks, autenticação e comunicação entre aplicações.
+- 📱 **Aplicações Web e Mobile** — Next.js, React, React Native e Node.js.
+- ☕ **Java & Spring** — integração de múltiplas APIs em um sistema ERP, com Java, Spring e PostgreSQL.
 
 Grande parte do meu trabalho envolve transformar **dados brutos e múltiplas fontes de informação em sistemas, APIs, automações e produtos utilizáveis em produção**.
 
@@ -123,14 +123,12 @@ Grande parte do meu trabalho envolve transformar **dados brutos e múltiplas fon
 
 ## 🤖 IA no desenvolvimento
 
-Utilizo ferramentas e modelos de IA no meu fluxo de engenharia para auxiliar em:
+Construí um fluxo de engenharia orientado a IA, não apenas uso pontual de chat:
 
-* Desenvolvimento e refatoração
-* Análise de código
-* Exploração de arquiteturas
-* Automação de tarefas
-* Processamento e análise de dados
-* Prototipação de novas funcionalidades
+* Orquestração de **múltiplos modelos** dentro de um harness próprio, cada um definido para etapas específicas do fluxo (implementação, revisão, análise de código)
+* Monitoramento contínuo do código gerado, com validação antes de aceitar mudanças
+* Plugins e estratégias de contexto para **reduzir consumo de tokens** sem perder qualidade
+* Automação de tarefas repetitivas e exploração de arquiteturas
 
 Meu interesse está principalmente em integrar IA a **produtos reais e workflows de engenharia**, em vez de utilizá-la apenas como interface de chat.
 
@@ -138,7 +136,9 @@ Meu interesse está principalmente em integrar IA a **produtos reais e workflows
 
 ## 📊 GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diom852&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diom852&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diom852&layout=compact&theme=dark&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com?user=Diom852&theme=dark&hide_border=true)
 
 ---
 
@@ -157,8 +157,8 @@ const dioncley = {
   interests: [
     "Software Architecture",
     "Sports Tech",
-    "Data",
-    "AI",
+    "Data & Automation",
+    "Computer Vision",
     "Scalable Products"
   ]
 };
