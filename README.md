@@ -139,7 +139,7 @@ Meu interesse está principalmente em integrar IA a **produtos reais e workflows
 
 ## 📊 GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diom852\&layout=compact\&langs_count=8\&hide_border=true\&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diom852&layout=compact)
 
 ---
 
