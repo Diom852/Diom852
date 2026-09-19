@@ -100,25 +100,24 @@ Tenho interesse especial em **arquitetura de software, performance, escalabilida
 
 ---
 
-## ⚽ Sports Tech & Data
+## ⚙️ Engenharia, Dados & Automação
 
-Grande parte do meu trabalho recente envolve sistemas relacionados a **estatísticas esportivas e processamento de dados**.
+Minha experiência envolve o desenvolvimento de **produtos digitais, sistemas orientados a dados, automações e integrações**, com atuação principalmente em aplicações web, mobile e backend.
 
-Desenvolvo soluções envolvendo:
+Ao longo dos últimos anos, trabalhei com diferentes tipos de projetos e desafios técnicos:
 
-* Dados de partidas, times e jogadores
-* Estatísticas pré-jogo e em tempo real
-* Processamento de grandes volumes de métricas
-* Alertas e notificações baseadas em eventos
-* Rankings e filtros estatísticos
-* Análise automatizada de dados
-* Uso de IA em fluxos de análise e desenvolvimento
+- ⚽ **Sports Tech e análise estatística** — processamento de dados de partidas, jogadores, equipes, competições e métricas esportivas.
+- 🤖 **Bots e automações** — desenvolvimento de bots para Telegram, notificações automatizadas, processamento de eventos e distribuição de informações em tempo real.
+- 📊 **Engenharia e análise de dados** — coleta, transformação, agregação e análise de grandes volumes de dados.
+- 🕷️ **Web Scraping e coleta automatizada** — construção de rotinas para extração, normalização e processamento de informações provenientes de diferentes fontes.
+- 🧑‍⚖️ **Análise de arbitragem esportiva** — processamento de dados históricos de árbitros, cartões, faltas e outros indicadores para geração de métricas e análises.
+- 🧠 **Machine Learning e IA aplicada** — experimentação, treinamento e utilização de modelos voltados para análise e interpretação de estatísticas.
+- 💳 **Pagamentos e produtos digitais** — integração com gateways de pagamento, assinaturas, controle de acesso e fluxos relacionados à monetização de aplicações.
+- 🔌 **Integrações entre sistemas** — APIs REST, webhooks, autenticação, serviços externos e comunicação entre diferentes aplicações.
+- 📱 **Aplicações Web e Mobile** — desenvolvimento e manutenção de aplicações com Next.js, React, React Native e Node.js.
+- ☕ **Java & Spring** — experiência anterior com Java, Spring e PostgreSQL em desenvolvimento backend e integração com bancos de dados.
 
-### GreenScorer
-
-Um dos produtos em que trabalho atualmente é o **[GreenScorer](https://www.greenscorer.com.br/)**, uma plataforma de análise esportiva disponível para **Web, Android e iOS**, utilizada por dezenas de milhares de usuários.
-
-O projeto envolve aplicações web e mobile, backend, processamento de estatísticas, notificações em tempo real, integrações externas e infraestrutura de produção.
+Grande parte do meu trabalho envolve transformar **dados brutos e múltiplas fontes de informação em sistemas, APIs, automações e produtos utilizáveis em produção**.
 
 ---
 
